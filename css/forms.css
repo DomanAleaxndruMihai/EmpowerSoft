@@ -1,0 +1,128 @@
+.bs-example{
+  margin: 20px;
+}
+.accordion .fa{
+  margin-right: 0.5rem;
+}
+
+.obj{
+  padding: 0 25% 0 25%; 
+}
+
+#headingOne, #headingTwo, #headingThree, #headingFour, #headingFive, #headingSix, #headingSeven, #headingEight, #headingNine, #headingTen, #headingElvn {
+  background-color: #703DB4;
+  padding: 12px 12px 12px 6px;
+}
+
+.brandimg {
+  margin-left: 47%;
+  margin-top: 40px;
+}
+
+
+
+.br {
+  display: none;
+}
+
+.instructionpic{
+  width:70%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1400px) {
+  .brandimg{
+    margin-left: 46%;;
+  }
+  .instructionpic{
+    width:80%;
+  }
+}
+
+@media (max-width: 1250px) {
+  .brandimg{
+    margin-left: 45%;;
+  }
+  .obj{
+    padding: 0 15% 0 15%;
+  }
+}
+
+@media (max-width: 1100px) {
+
+}
+
+@media (max-width: 1000px) {
+  .brandimg{
+    margin-left: 43%;;
+  }
+
+}
+
+@media (max-width: 850px) {
+  .obj{
+    padding: 0 0px 0 0px;
+  }
+  .brandimg{
+    margin-left: 43%;
+  } 
+  
+}
+
+@media (max-width: 600px) {
+  .instructionpic{
+    width:100%;
+  } 
+  .brandimg{
+    margin-left: 40%;
+  } 
+}
+
+@media (max-width: 500px) {
+  .brandimg{
+    margin-left: 35%;
+  }   
+}
+
+@media (max-width: 470px) {
+  #stepic{
+    width: 100%;
+  }  
+  .br {
+    display: block;
+  }
+  .badgeuri {
+    margin-left: -70%;
+    display: initial;
+  }
+}
+
+@media (max-width: 420px) {
+  .brandimg{
+    margin-left: 35%;
+  }   
+}
+
+
+@media (max-width: 375px) {
+  .brandimg{
+    margin-left: 35%;
+  }   
+  #testbtn {
+    margin-left:20%;
+  }
+  #warbtn {
+    margin-left: 29%;
+  } 
+}
